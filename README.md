@@ -43,4 +43,6 @@ Developer Push → GitHub → Webhook → Deployment Server
 ---
 
 ## 📁 Project Structure
+<img width="238" height="560" alt="image" src="https://github.com/user-attachments/assets/5738b730-5ad3-4d47-b2e0-673e76050dbf" />
+
 
